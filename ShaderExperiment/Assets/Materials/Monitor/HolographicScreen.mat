@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HolographicScreen
+  m_Shader: {fileID: -6465566751694194690, guid: 5b17350baab3c7541b1011636b7450cb,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_1A0525D3:
+        m_Texture: {fileID: 2800000, guid: b2dbcceebe1399147ad036a89a78d0e1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7E42AAF6:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_1B3CBD71: 3
+    - Vector1_27D497F7: 80
+    - Vector1_D44209BB: 3
+    - Vector1_DCA7C637: 1
+    m_Colors:
+    - Color_C6D07519: {r: 0, g: 0.1509434, b: 0.01176812, a: 1}
