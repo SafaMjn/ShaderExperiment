@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Triplanar_Material
-  m_Shader: {fileID: -6465566751694194690, guid: 3519ad823e2705b4dba7bfb824dfdabf,
+  m_Shader: {fileID: -6465566751694194690, guid: 59e81490270617142a7daec2a86e670b,
     type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -22,6 +22,9 @@ Material:
     m_TexEnvs: []
     m_Floats: []
     m_Colors:
+    - Color_3E5D4742: {r: 0.40400004, g: 1, b: 0.99507433, a: 1}
     - Color_441462D1: {r: 0.042452775, g: 1, b: 0.9909046, a: 1}
+    - Color_6863A463: {r: 0.972549, g: 0.4152784, b: 0.6639777, a: 1}
     - Color_945848A: {r: 1, g: 0.108490564, b: 0.7691306, a: 1}
     - Color_AD74877C: {r: 1, g: 1, b: 0, a: 1}
+    - Color_BBE5502: {r: 1, g: 1, b: 0.44700003, a: 1}
